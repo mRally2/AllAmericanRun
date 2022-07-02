@@ -2,7 +2,7 @@
 <div class="rich-text">
    <p><strong>DESCRIPTION</strong></p>
    <hr>
-   <p>This tool lets you experience the game like never before. Start The Run with Tier 4 american muscle cars, fight your way through the tough competition and the Mob to get the chance to win the 25 million in a Tier 5 or Tier 6 car. Cannonball races have been a thing in the past but never like this one is. Your choice to take place in it.</p>
+   <p>This tool lets you experience the game like never before. Start The Run with Tier 4 american muscle cars, fight your way through the tough competition and the Mob to get the chance to win the 25 million in a Tier 5 or Tier 6 car. Cannonball races have been a thing in the past but never like this. Your choice to take place in it.</p>
    <p><br></p>
    <p><strong>FEATURES</strong></p>
    <hr>
