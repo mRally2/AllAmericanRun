@@ -11,6 +11,7 @@
       <li>Gas stations have a huge variety of Tier 4, Tier 5 and Tier 6 american vehicles to choose from</li>
       <li>There are 20 highly customized vehicles exclusive to the player which can be driven either by hot-swapping at any gas station or by appearing as one of the choices given throughout the career</li>
       <li>All rivals' vehicles have been changed and customized to provide a fresh look and a proper challenge when facing them in rival races</li>
+      <li>Nitrous and drafting disabler for the ones that want an old school experience</li>
    </ul>
    <p><br></p>
    <p><strong>USE</strong></p>
@@ -18,6 +19,7 @@
    <ul>
       <li>Open the game before using the tool</li>
       <li>Enable it by pressing F4 preferably before the PRESS ENTER screen</li>
+      <li>Use NUMPAD 7 to toggle the nitrous and drafting perks. Comes disabled by default</li>
       <li>Wait a couple of minutes or so for all scripts to be enabled</li>
       <li>Do not close the tool once in-game, let the tool work in the background as you play</li>
       <li>It’s compatible with Extra UI Options</li>
@@ -38,6 +40,7 @@
       <li>The replacement of the string "PRESS ENTER (TO BEGIN)" works only if you launch the game with keyboard controls</li>
       <li>Some customization parts might not look right due to the default position set for the original vehicles they were meant for</li>
       <li>Some events might not be possible to complete if chosen a lower-performance vehicle and the AI was given very high-performance ones or if you went to the gas station for a hot-swap</li>
+      <li>Cannot enter individual stages using the front end menu since the garage will appear as empty</li>
       <li>If a vehicle is not customized then it might’ve been Cheat Engine omitting its particular script. Restart both, the game and the trainer</li>
       <li>Because of how Cheat Engine trainers work, if you close its window you will still have all scripts that got enabled in the first place. In order to disable them all, you must do it manually by killing all instances of the trainer in the Task Manager<br></li>
    </ul>
