@@ -11,7 +11,7 @@
       <li>Gas stations have a huge variety of Tier 4, Tier 5 and Tier 6 american vehicles to choose from</li>
       <li>There are 20 highly customized vehicles exclusive to the player which can be driven either by hot-swapping at any gas station or by appearing as one of the choices given throughout the career</li>
       <li>All rivals' vehicles have been changed and customized to provide a fresh look and a proper challenge when facing them in rival races</li>
-      <li>Nitrous and drafting disabler for the ones that want an old school experience</li>
+      <li>Nitrous and drafting disabler for the ones who seek for an old school experience</li>
    </ul>
    <p><br></p>
    <p><strong>USE</strong></p>
